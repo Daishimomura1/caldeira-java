@@ -10,7 +10,7 @@ public class exercicio3 {
         ListaDeTarefas.add("jogar");
         ListaDeTarefas.add("varrer a casa");
         ListaDeTarefas.remove(2);
-        System.out.println(ListaDeTarefas);
+        System.out.println(ListaDeTarefas   );
 
 
     }
