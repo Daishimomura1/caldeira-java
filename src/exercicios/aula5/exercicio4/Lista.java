@@ -5,6 +5,8 @@ import java.util.List;
 
 public class Lista {
     private List<Produto> compras = new ArrayList<>();
-    compras.add
+    public void addProdutct(Produto produto){
+        compras.add(produto);
+    }
 
 }
