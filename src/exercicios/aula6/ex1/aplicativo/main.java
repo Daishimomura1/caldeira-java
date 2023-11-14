@@ -1,8 +1,7 @@
-package exercicios.aula6.aplicativo;
+package exercicios.aula6.ex1.aplicativo;
 
-import exercicios.aula6.livros.Livro;
+import exercicios.aula6.ex1.livros.Livro;
 
-import java.util.HashSet;
 import java.util.Stack;
 
 public class main {
