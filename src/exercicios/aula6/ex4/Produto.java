@@ -15,7 +15,7 @@ import java.util.LinkedHashMap;
 
 
                 for (Map.Entry<String, Double> mapElementos : produto.entrySet()) {
-                    System.out.println(mapElementos.getKey() + "= " + mapElementos.getValue());
+                    System.out.println(mapElementos.getKey() + "= " + mapElementos.getValue() + "R$");
                 }
             }
         }
